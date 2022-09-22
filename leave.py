@@ -232,7 +232,7 @@ class Leave(object):
                  "DZQJSY": "763ec35f8f5545c0aa245e8fbc20adb2", "QJXZ_DISPLAY": "因公", "QJXZ": "2", "QJFS_DISPLAY": "请假",
                  "QJFS": "1", "YGLX_DISPLAY": "实验", "YGLX": "3", "SQSM": "", "QJKSRQ": "",
                  "QJJSRQ": "", "QJTS": "1", "QJSY": "去无线谷科研", "ZMCL": "", "SJH": "",
-                 "DZSFLX_DISPLAY": "是", "DZSFLX": "1", "HDXQ_DISPLAY": "九龙湖校区", "HDXQ": "1", "DZSFLN_DISPLAY": "否",
+                 "DZSFLX_DISPLAY": "是", "DZSFLX": "1", "HDXQ_DISPLAY": "九龙湖校区,丁家桥校区", "HDXQ": "1", "DZSFLN_DISPLAY": "否",
                  "DZSFLN": "0", "DZSFLKJSS_DISPLAY": "", "DZSFLKJSS": "", "DZ_SFCGJ_DISPLAY": "", "DZ_SFCGJ": "",
                  "DZ_GJDQ_DISPLAY": "", "DZ_GJDQ": "", "QXSHEN_DISPLAY": "", "QXSHEN": "", "QXSHI_DISPLAY": "", "QXSHI": "",
                  "QXQ_DISPLAY": "", "QXQ": "", "QXJD": "", "XXDZ": "无线谷", "JTGJ_DISPLAY": "", "JTGJ": "", "CCHBH": "",
